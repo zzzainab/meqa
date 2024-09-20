@@ -5,4 +5,4 @@ Meta-evaluation framework to assess the quality of Q&amp;A LLM benchmarks.
 We include our final dataset of benchmark scores (1-5) based on human and LLM evaluators.
 
 # Code
-We include a script that integrates the use of GPT-4o via API calls that can be used to reproduce our work and an exemplar spreadsheet for integration.
+We include a script that integrates the use of GPT-4o via API calls that can be used to reproduce our work and an exemplar spreadsheet for integration. Please note that our script relies on google sheet integration, this would need to be edited for reproduction.
